@@ -8,3 +8,4 @@ Max Mustermann hat im deutschen Sprachgebrauch die Nachfolge von Otto Normalverb
 * Bei der Wahl des hessischen Ministerpräsidenten am 18. Januar 2014 gab die Landtagsverwaltung im ersten Wahlgang irrtümlich drei Stimmkarten in Umlauf, die statt des Kandidaten Volker Bouffier den Namen Max Mustermann trugen. Eine dieser Karten wurde gelocht und in die Wahlurne eingeworfen, sodass das Wahlergebnis lautete: 61 Stimmen für Bouffier, eine Stimme für Mustermann. Der Wahlgang wurde daraufhin wiederholt. Im zweiten Durchgang erhielt Bouffier 62 Stimmen.
 
 > Erika hat ’nen Neuen
+<img src="https://de.wikipedia.org/wiki/Mustermann#/media/Datei:Fahrerkarte_VS.jpg" />
