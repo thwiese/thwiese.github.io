@@ -1,1 +1,3 @@
 # Welcome to Max!
+
+Max Mustermann hat im deutschen Sprachgebrauch die Nachfolge von Otto Normalverbraucher als fiktive Person und Inbegriff des Durchschnittsdeutschen angetreten. Er ist ein Verwandter, nach üblicher Annahme der Ehemann, der wesentlich bekannteren, ebenfalls fiktiven Erika Mustermann, die mit Foto und Lebensdaten viele Musterausweise und Dokumente ziert. Ausweisdokumente auf den Namen Max Mustermann sind wesentlich weniger verbreitet, einzig das Kraftfahrt-Bundesamt veröffentlichte ein Muster der 2006 eingeführten EG-Fahrerkarte mit dem Bild eines am 1. Februar 1976 geborenen Max Mustermann, ausgestellt von der Fahrerlaubnisbehörde Musterstadt. 
